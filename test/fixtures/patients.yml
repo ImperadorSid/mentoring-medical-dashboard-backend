@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  document: MyString
+  health_system_id: MyString
+  birthday: 2022-12-13
+  insurance_plan: MyString
+
+two:
+  name: MyString
+  document: MyString
+  health_system_id: MyString
+  birthday: 2022-12-13
+  insurance_plan: MyString
